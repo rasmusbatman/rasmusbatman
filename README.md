@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there, name's Rasmus!
 
-<!--
-**rasmusbatman/rasmusbatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Swedish AV control systems programmer.
 
-Here are some ideas to get you started:
+Visit my website: [rasbat.se](https://rasbat.se/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I dabble in things made by Crestron, AMX, Kramer, QSC, Biamp, Audinate D-Tools, BSS Audio, Bose, Yamaha, Sennheiser, Panasonic, Epson, Samsung, ClearOne, Vaddio, Epiphan, Stoltzen, TiGHT AV, Interactive Online, Helvar, BrightSign, Logitech, and the list goes on...
+
+Most of which involve one of these things:
+
+- programming devices
+  - 3rd party device control
+- configuring devices
+  - creating dsp designs for audio installations
+- researching devices
+  - product and system knowledge
+  - ties in with the aforementioned
+
+Working on a Crestron Masters certification 🙂
