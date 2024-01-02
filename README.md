@@ -4,7 +4,7 @@ I'm a Swedish AV control systems programmer.
 
 Visit my website: [rasbat.se](https://rasbat.se/)
 
-I dabble in things made by Crestron, AMX, Kramer, QSC, Biamp, Audinate D-Tools, BSS Audio, Bose, Yamaha, Sennheiser, Panasonic, Epson, Samsung, ClearOne, Vaddio, Epiphan, Stoltzen, TiGHT AV, Interactive Online, Helvar, BrightSign, Logitech, and the list goes on...
+I dabble in things made by Crestron, AMX, Kramer, QSC, Biamp, Audinate, D-Tools System Integrator, BSS Audio, Bose, Yamaha, Sennheiser, Panasonic, Epson, Samsung, ClearOne, Vaddio, Epiphan, Stoltzen, TiGHT AV, Interactive Online, Helvar, BrightSign, Logitech, and the list goes on...
 
 Most of which involve one of these things:
 
@@ -15,5 +15,3 @@ Most of which involve one of these things:
 - researching devices
   - product and system knowledge
   - ties in with the aforementioned
-
-Working on a Crestron Masters certification 🙂
